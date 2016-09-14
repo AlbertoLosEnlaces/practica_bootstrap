@@ -1,0 +1,1 @@
+$('#frmcontactar').validate();
